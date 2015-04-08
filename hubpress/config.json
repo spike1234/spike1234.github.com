@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "spike1234",
-    "repositoryName": "spike1234.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"spike1234","repositoryName":"spike1234.github.io","branch":"master"},"site":{"title":"Boso's Hubpress tests","description":"just some tests to see if I like it!","url":"https://spike1234.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//spike1234.github.io/themes/Casper"}}
